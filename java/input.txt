@@ -1,0 +1,8 @@
+192.168.249.128
+C:\Users\Aviel\Desktop\assignment5_code\java\Assignment5\database\users.txt
+C:\Users\Aviel\Desktop\assignment5_code\java\Assignment5\database\pass.txt
+
+C:\Users\Aviel\Desktop\assignment5_code\java\Assignment5\database\client.py
+C:\Users\Aviel\Desktop\assignment5_code\java\Assignment5\database\magic_ping.py
+C:\Users\Aviel\Desktop\assignment5_code\java\Assignment5\database\server.py
+C:\Users\Aviel\Desktop\assignment5_code\java\Assignment5\database\settings.py
